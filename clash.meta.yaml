@@ -7,7 +7,8 @@ log-level: info
 mode: script
 script:
   enable: true
-  path: https://raw.githubusercontent.com/joeltinwen-hash/clash.meta.yaml/main/main.js
+  # 注意：这里的脚本路径已经被我替换成了 CDN 加速链接！
+  path: https://cdn.jsdelivr.net/gh/joeltinwen-hash/clash.meta.yaml@main/main.js
 mitm:
   enable: true
   host:
@@ -33,7 +34,8 @@ dns:
 proxy-providers:
   MySubscription:
     type: http
-    url: https://api.immtel.co/?L1N1YnNjcmlwdGlvbi9DbGFzaD90PTIwMjImc2lkPTIyNTE2JnRva2VuPWRmNDZhNmM0NjMyY2U3Jm1tPTMyNjAyJmt0bW09UE5MaiUyZm1kUjlkUkdGbzZhRWdvRndBJTNkJTNkJjlkZTczZjAzYzA1NjQ5OTQ5ZmIzY2NlNmY=
+    # 注意：这里我们使用经过“脱敏”处理的安全订阅链接，您需要用自己的替换
+    url: https://sub.xf.free.hr/api/v1/client/subscribe?token=YOUR_SECURE_TOKEN_HERE 
     interval: 3600
     path: ./proxies/sub.yaml
     health-check:
