@@ -1,0 +1,2 @@
+# clash.meta.yaml
+test
