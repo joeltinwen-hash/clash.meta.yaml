@@ -7,7 +7,7 @@ log-level: info
 mode: script
 script:
   enable: true
-  path: ./scripts/main.js
+  path: .main.js
 mitm:
   enable: true
   host:
