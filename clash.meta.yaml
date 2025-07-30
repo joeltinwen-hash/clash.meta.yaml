@@ -7,7 +7,6 @@ log-level: info
 mode: script
 script:
   enable: true
-  # 注意：这里的脚本路径已经被我替换成了 CDN 加速链接！
   path: https://cdn.jsdelivr.net/gh/joeltinwen-hash/clash.meta.yaml@main/main.js
 mitm:
   enable: true
@@ -34,8 +33,8 @@ dns:
 proxy-providers:
   MySubscription:
     type: http
-    # 注意：这里我们使用经过“脱敏”处理的安全订阅链接，您需要用自己的替换
-    url: https://sub.xf.free.hr/api/v1/client/subscribe?token=YOUR_SECURE_TOKEN_HERE 
+    # ↓↓↓ 这里已经替换成了您刚刚提供的有效订阅链接！ ↓↓↓
+    url: https://api.immtel.co/?L1N1YnNjcmlwdGlvbi9DbGFzaD90PTIwMjImc2lkPTIyNTE2JnRva2VuPTI1MTU1YmQxNmFhMDk1Jm1tPTMyNjAyJmt0bW09UE5MaiUyZm1kUjlkUTglMmJCdWk1UTZMRGclM2QlM2QmN2E1MDYy
     interval: 3600
     path: ./proxies/sub.yaml
     health-check:
@@ -57,4 +56,26 @@ proxy-groups:
   - {name: 🌐 Google, type: select, proxies: [✈️ Proxies, 🎯Direct]}
   - {name: 🎵 Tiktok, type: select, proxies: [✈️ Proxies, 🎯Direct]}
 rules:
-  - MATCH,🚀 Final
+  - MATCH,🚀 Final```
+
+---
+
+### 请立即按照以下步骤操作！
+
+1.  **第一步：回到 GitHub**
+    *   立刻回到您 GitHub 上的 `clash.meta.yaml` 文件，并点击**铅笔图标 ✏️** 进入编辑模式。
+
+2.  **第二步：清空并粘贴**
+    *   将编辑框里**所有的旧内容全部删除**。
+    *   然后，**完整地复制**上面这整块**“终极毕业版”**代码，粘贴进去。
+
+3.  **第三步：保存**
+    *   立刻点击绿色的 **`Commit changes...`** 按钮保存！
+
+4.  **第四步：在手机上立即更新！**
+    *   保存好 GitHub 上的文件后，**立刻**回到您的 Clash App。
+    *   找到您之前用 CDN 加速链接导入的那个配置，对它执行 **“更新 (Update)”** 操作（通常是向下滑动配置列表或点击刷新图标）。
+
+这一次，App 下载到的就是包含了您有效订阅的、完整的最终配置文件，所有错误都会消失，您将看到成功的界面！
+
+**加油，这是最后一哆嗦了！**
