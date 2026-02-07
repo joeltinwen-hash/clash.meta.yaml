@@ -1,0 +1,345 @@
+# Redacted copy (sensitive values removed) - 2026-02-07
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: rule
+log-level: info
+external-controller: 127.0.0.1:9090
+secret: <REDACTED_SECRET>
+external-controller-allow-origins: []
+external-controller-allow-private-network: false
+unified-delay: true
+tcp-concurrent: true
+profile:
+  store-selected: true
+  store-fake-ip: true
+tfo: false
+find-process-mode: strict
+geodata-mode: true
+geodata-loader: standard
+geo-auto-update: true
+geo-update-interval: 24
+health-check:
+  enable: true
+  concurrency: 15
+  url: https://www.gstatic.com/generate_204
+tun:
+  enable: true
+  stack: mixed
+  auto-route: true
+  strict-route: true
+  auto-detect-interface: true
+  udp-timeout: 300
+  dns-hijack:
+  - any:53
+  - tcp://any:53
+sniffer:
+  enable: true
+  sniff:
+    TLS:
+      ports:
+      - 443
+      - 8443
+    HTTP:
+      ports:
+      - 80
+      - 8080-8880
+    QUIC:
+      ports:
+      - 443
+      - 784
+  skip-domain:
+  - Mijia Cloud
+  - dlg.io.mi.com
+  - +.mi.com
+  - +.apple.com
+  parse-pure-ip: true
+  force-dns-mapping: false
+  override-destination: true
+dns:
+  enable: true
+  enhanced-mode: fake-ip
+  listen: 127.0.0.1:1053
+  ipv6: false
+  respect-rules: true
+  default-nameserver:
+  - 223.5.5.5
+  proxy-server-nameserver:
+  - 223.5.5.5
+  nameserver:
+  - https://dns.alidns.com/dns-query#disable-qtype-64=true&disable-qtype-65=true
+  - https://doh.pub/dns-query#disable-qtype-64=true&disable-qtype-65=true
+  fallback:
+  - https://8.8.8.8/dns-query#Proxies&disable-qtype-64=true&disable-qtype-65=true
+  - https://1.1.1.1/dns-query#Proxies&disable-qtype-64=true&disable-qtype-65=true
+  direct-nameserver:
+  - https://dns.alidns.com/dns-query#disable-qtype-64=true&disable-qtype-65=true
+  - https://doh.pub/dns-query#disable-qtype-64=true&disable-qtype-65=true
+  fallback-filter:
+    geoip: true
+    geoip-code: CN
+    geosite:
+    - gfw
+    ipcidr:
+    - 240.0.0.0/4
+  nameserver-policy:
+    geosite:cn,apple,category-games@cn:
+    - https://dns.alidns.com/dns-query#disable-qtype-64=true&disable-qtype-65=true
+    - https://doh.pub/dns-query#disable-qtype-64=true&disable-qtype-65=true
+    geosite:private:
+    - system
+  fake-ip-filter:
+  - GEOSITE,private,real-ip
+  - DOMAIN,localhost,real-ip
+  - DOMAIN-SUFFIX,local,real-ip
+  - DOMAIN-SUFFIX,lan,real-ip
+  - DOMAIN-SUFFIX,home.arpa,real-ip
+  - DOMAIN-KEYWORD,ntp,real-ip
+  - MATCH,fake-ip
+  fake-ip-filter-mode: rule
+proxy-providers:
+  ImmTelecom:
+    type: http
+    url: <REDACTED_URL>
+    interval: 0
+    path: ./proxies/new_subscription.yaml
+    health-check:
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 300
+    filter: ^(?!.*(流量|到期|官网|link)).*$
+    override:
+      udp: true
+      skip-cert-verify: false
+rule-providers:
+  Apple:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Apple/Apple.yaml
+    path: ./ruleset/apple.yaml
+    interval: 86400
+  AppleMusic:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AppleMusic/AppleMusic.yaml
+    path: ./ruleset/applemusic.yaml
+    interval: 86400
+  Bahamut:
+    type: http
+    behavior: classical
+    url: https://raw.githubuser>><content.com/blackmatrix7/ios_rule_script/master/rule/Clash/Bahamut/Bahamut.yaml
+    path: ./ruleset/bahamut.yaml
+    interval: 86400
+  Microsoft:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Microsoft/Microsoft.yaml
+    path: ./ruleset/microsoft.yaml
+    interval: 86400
+  Telegram:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram.yaml
+    path: ./ruleset/telegram.yaml
+    interval: 86400
+  Twitter:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Twitter/Twitter.yaml
+    path: ./ruleset/twitter.yaml
+    interval: 86400
+  YouTube:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTube/YouTube.yaml
+    path: ./ruleset/youtube.yaml
+    interval: 86400
+  HBO:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/HBO/HBO.yaml
+    path: ./ruleset/hbo.yaml
+    interval: 86400
+  Netflix:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Netflix/Netflix.yaml
+    path: ./ruleset/netflix.yaml
+    interval: 86400
+  Disney:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Disney/Disney.yaml
+    path: ./ruleset/disney.yaml
+    interval: 86400
+  Twitch:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Twitch/Twitch.yaml
+    path: ./ruleset/twitch.yaml
+    interval: 86400
+  Facebook:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Facebook/Facebook.yaml
+    path: ./ruleset/facebook.yaml
+    interval: 86400
+  Instagram:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Instagram/Instagram.yaml
+    path: ./ruleset/instagram.yaml
+    interval: 86400
+  OpenAI:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OpenAI/OpenAI.yaml
+    path: ./ruleset/openai.yaml
+    interval: 86400
+proxy-groups:
+- name: Proxies
+  type: select
+  proxies:
+  - DIRECT
+  use:
+  - ImmTelecom
+- name: Social
+  type: select
+  proxies:
+  - DIRECT
+  use:
+  - ImmTelecom
+- name: Streaming
+  type: select
+  proxies:
+  - DIRECT
+  use:
+  - ImmTelecom
+- name: YouTube
+  type: select
+  proxies:
+  - DIRECT
+  - Proxies
+  use:
+  - ImmTelecom
+- name: Bahamut
+  type: select
+  proxies:
+  - DIRECT
+  use:
+  - ImmTelecom
+- name: AI
+  type: select
+  proxies:
+  - DIRECT
+  use:
+  - ImmTelecom
+- name: Telegram
+  type: select
+  proxies:
+  - DIRECT
+  use:
+  - ImmTelecom
+- name: Direct
+  type: select
+  proxies:
+  - DIRECT
+- name: Final
+  type: select
+  proxies:
+  - Proxies
+  - DIRECT
+rules:
+- DOMAIN-SUFFIX,cn.bing.com,DIRECT
+- DOMAIN-SUFFIX,mediatek.com,DIRECT
+- DOMAIN-SUFFIX,ntp.org,DIRECT
+- DOMAIN,dl.pikpak.io,Direct
+- DOMAIN,hub.dcdn.mypikpak.com,Direct
+- DOMAIN-SUFFIX,shub.mypikpak.com,Direct
+- DOMAIN-REGEX,^dl-.*\.mypikpak\.com$,Direct
+- DOMAIN-REGEX,^hub.*\.mypikpak\.com$,Direct
+- DOMAIN,passport.pikpak.io,Streaming
+- DOMAIN-SUFFIX,mypikpak.com,Streaming
+- DOMAIN-SUFFIX,pikpak.io,Streaming
+- DOMAIN-SUFFIX,mypikpak.net,Streaming
+- PROCESS-NAME-WILDCARD,com.pikcloud.pikpak,Streaming
+- DOMAIN-SUFFIX,pts.org.tw,Streaming
+- DOMAIN-SUFFIX,ptsplus.tv,Streaming
+- RULE-SET,HBO,Streaming
+- RULE-SET,Netflix,Streaming
+- RULE-SET,Disney,Streaming
+- DOMAIN-SUFFIX,manhuagui.com,Streaming
+- DOMAIN-SUFFIX,hamreus.com,Streaming
+- IP-CIDR,202.89.233.100/31,Streaming,no-resolve
+- RULE-SET,AppleMusic,Streaming
+- PROCESS-NAME-WILDCARD,com.openai.chatgpt,AI
+- RULE-SET,OpenAI,AI
+- PROCESS-NAME-WILDCARD,com.google.android.apps.bard,Proxies
+- PROCESS-NAME-WILDCARD,com.google.android.apps.gemini,Proxies
+- DOMAIN,gemini.google.com,Proxies
+- DOMAIN,bard.google.com,Proxies
+- DOMAIN,deepmind.com,Proxies
+- DOMAIN,deepmind.google,Proxies
+- DOMAIN,generativelanguage.googleapis.com,Proxies
+- DOMAIN,alkaliminer-pa.clients6.google.com,Proxies
+- DOMAIN,proactivebackend-pa.googleapis.com,Proxies
+- DOMAIN,notebooklm.google,Proxies
+- DOMAIN-SUFFIX,bard.google.com,Proxies
+- DOMAIN-SUFFIX,gemini.google.com,Proxies
+- PROCESS-NAME-WILDCARD,org.telegram.messenger.beta,Telegram
+- RULE-SET,Telegram,Telegram
+- PROCESS-NAME-WILDCARD,tw.com.gamer.android.animad,Bahamut
+- PROCESS-NAME-WILDCARD,com.google.android.youtube,YouTube
+- PROCESS-NAME-WILDCARD,app.revanced.android.youtube,YouTube
+- PROCESS-NAME-WILDCARD,app.revanced.android.gms,YouTube
+- PROCESS-NAME-WILDCARD,app.morphe.android.youtube,YouTube
+- RULE-SET,YouTube,YouTube
+- DOMAIN-SUFFIX,sponsor.ajay.app,YouTube
+- DOMAIN-SUFFIX,googleapis.com,Proxies
+- DOMAIN-SUFFIX,googleapis.cn,Proxies
+- DOMAIN-SUFFIX,ggpht.com,Proxies
+- DOMAIN-SUFFIX,google.com,Proxies
+- DOMAIN-SUFFIX,gstatic.com,Proxies
+- DOMAIN-SUFFIX,googleusercontent.com,Proxies
+- DOMAIN-SUFFIX,xn--ngstr-lra8j.com,Proxies
+- PROCESS-NAME-WILDCARD,com.twitter.android,Social
+- RULE-SET,Twitter,Social
+- RULE-SET,Bahamut,Bahamut
+- RULE-SET,Apple,Direct
+- RULE-SET,Microsoft,Proxies
+- RULE-SET,Twitch,Social
+- RULE-SET,Facebook,Social
+- RULE-SET,Instagram,Social
+- DOMAIN,challenges.cloudflare.com,Final
+- DOMAIN-SUFFIX,ubisoft.com,Final
+- DOMAIN-SUFFIX,ubi.com,Final
+- DOMAIN-SUFFIX,deepl.com,Proxies
+- DOMAIN-SUFFIX,algolia.net,Final
+- DOMAIN-SUFFIX,algolianet.com,Final
+- DOMAIN-SUFFIX,revenuecat.com,Final
+- DOMAIN-SUFFIX,datadoghq.com,Final
+- DOMAIN-SUFFIX,branch.io,Final
+- DOMAIN-SUFFIX,pages.dev,Final
+- DOMAIN-SUFFIX,gitflic.ru,Final
+- AND,((PROCESS-NAME,BitComet.exe),(NETWORK,UDP)),Direct
+- GEOIP,CN,Direct,no-resolve
+- DOMAIN-SUFFIX,lan,Direct
+- DOMAIN-SUFFIX,local,Direct
+- DOMAIN-SUFFIX,localhost,Direct
+- DOMAIN-SUFFIX,miwifi.com,Direct
+- DOMAIN-SUFFIX,tplogin.cn,Direct
+- DOMAIN-SUFFIX,acl4.ssr,Direct
+- IP-CIDR,0.0.0.0/8,Direct,no-resolve
+- IP-CIDR,10.0.0.0/8,Direct,no-resolve
+- IP-CIDR,100.64.0.0/10,Direct,no-resolve
+- IP-CIDR,127.0.0.0/8,Direct,no-resolve
+- IP-CIDR,172.16.0.0/12,Direct,no-resolve
+- IP-CIDR,192.168.0.0/16,Direct,no-resolve
+- IP-CIDR,198.18.0.0/16,Direct,no-resolve
+- IP-CIDR,224.0.0.0/4,Direct,no-resolve
+- IP-CIDR6,::1/128,Direct,no-resolve
+- IP-CIDR6,fc00::/7,Direct,no-resolve
+- IP-CIDR6,fe80::/10,Direct,no-resolve
+- IP-CIDR6,fd00::/8,Direct,no-resolve
+- IP-CIDR,223.5.5.5/32,Direct,no-resolve
+- MATCH,Final
