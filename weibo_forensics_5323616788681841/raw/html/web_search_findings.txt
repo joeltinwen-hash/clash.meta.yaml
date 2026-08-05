@@ -1,0 +1,17 @@
+Collected via web.run on 2026-08-05 UTC (tool excerpts, not direct curl due CONNECT 403 in local shell).
+
+Bing/search result for "5323616788681841": https://www.sina.cn/news/detail/5323616788681841.html titled "竹知了挺好玩的|余音绕梁竹知了_新浪新闻" snippet: Published 2 weeks ago; Crawled today; text: 最近都在推荐这个余音绕梁竹知了，说是1000块钱以内最好玩的玩具，确实挺好玩的。 http://t.cn/AX9xdpfY ​. 发布于湖南.
+
+Bing/search result for same text: https://www.sina.cn/media/1749821214 titled "简称老朱的微博_新浪新闻" snippet contains same text and time: 简称老朱. 2026-07-29 15:03来自iPhone客户端.
+
+Open https://www.sina.cn/media/8345249001: title 王澎程的微博_新浪新闻; lines show 王澎程; bio 诚实正直，不说假话，坚守原则，不畏强权。; 汽车博主 湖南 2025.10 加入; 181关注; 954粉丝; 507微博.
+
+Open https://www.sina.cn/news/detail/5318734828801903.html: title 我能改名成“王澎程”吗？; lines show 王澎程; 26-07-09 11:44 微博认证：汽车博主; text 我能改名成“王澎程”吗？; 发布于 湖南.
+
+Search "石头日谈" "王澎程": result https://www.sina.cn/media/8345249001 snippet included "石头日谈:对立不是闫闯自己搞起来的么." and current page entries under 王澎程 including "我能改名成“王澎程”吗？".
+
+Open https://www.sina.cn/news/detail/5323616788681841.html via web.run redirected to https://sina.cn/?news%2Fdetail%2F5323616788681841_html= and did not expose target lines; search cache snippet above is stronger for target text than opened page.
+
+Open video.weibo.com/show?fid=1034:5323616443629696 and weibo.com/tv/show/1034:5323616443629696 returned Internal Error in web.run; local curl blocked by CONNECT 403 for HTTPS.
+
+Bing/search for "1000块钱以内最好玩的玩具": found Tencent News https://view.inews.qq.com/a/20260731A07ONI00 / ZAKER https://app.myzaker.com/news/article.php?pk=6a701ce28e9f093ba360192e, both discussing bamboo cicada meme and saying many bloggers used text "这是1000块钱以内最好玩的玩具。" before phrase evolved to 1000万.

@@ -1,0 +1,281 @@
+utc_time,platform,query,url_or_query,result_count,key_hits,blocked_reason
+2026-08-05T07:39:22Z,微博/移动端 site:weibo.com OR site:m.weibo.cn,5323616788681841,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,新浪 site:sina.cn,5323616788681841,site-directed query (see scripts and web_search_findings.txt),unknown,命中新浪镜像目标页摘要/结果,
+2026-08-05T07:39:22Z,百度,5323616788681841,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,必应,5323616788681841,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,搜狗,5323616788681841,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,360,5323616788681841,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,知乎 site:zhihu.com,5323616788681841,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,B站 site:bilibili.com,5323616788681841,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,贴吧 site:tieba.baidu.com,5323616788681841,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,小红书 site:xiaohongshu.com,5323616788681841,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,抖音 site:douyin.com,5323616788681841,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,今日头条 site:toutiao.com,5323616788681841,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,腾讯新闻 site:qq.com,5323616788681841,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,微信 site:mp.weixin.qq.com,5323616788681841,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,商品平台/聚合,5323616788681841,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,图片搜索,5323616788681841,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Wayback,5323616788681841,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Common Crawl,5323616788681841,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,archive.today,5323616788681841,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Arquivo.pt,5323616788681841,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,微博/移动端 site:weibo.com OR site:m.weibo.cn,AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,新浪 site:sina.cn,AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,百度,AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,必应,AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,搜狗,AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,360,AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,知乎 site:zhihu.com,AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,B站 site:bilibili.com,AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,贴吧 site:tieba.baidu.com,AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,小红书 site:xiaohongshu.com,AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,抖音 site:douyin.com,AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,今日头条 site:toutiao.com,AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,腾讯新闻 site:qq.com,AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,微信 site:mp.weixin.qq.com,AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,商品平台/聚合,AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,图片搜索,AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Wayback,AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Common Crawl,AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,archive.today,AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Arquivo.pt,AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,微博/移动端 site:weibo.com OR site:m.weibo.cn,1034:5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,新浪 site:sina.cn,1034:5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,百度,1034:5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,必应,1034:5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,搜狗,1034:5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,360,1034:5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,知乎 site:zhihu.com,1034:5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,B站 site:bilibili.com,1034:5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,贴吧 site:tieba.baidu.com,1034:5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,小红书 site:xiaohongshu.com,1034:5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,抖音 site:douyin.com,1034:5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,今日头条 site:toutiao.com,1034:5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,腾讯新闻 site:qq.com,1034:5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,微信 site:mp.weixin.qq.com,1034:5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,商品平台/聚合,1034:5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,图片搜索,1034:5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Wayback,1034:5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Common Crawl,1034:5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,archive.today,1034:5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Arquivo.pt,1034:5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,微博/移动端 site:weibo.com OR site:m.weibo.cn,5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,新浪 site:sina.cn,5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,百度,5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,必应,5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,搜狗,5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,360,5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,知乎 site:zhihu.com,5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,B站 site:bilibili.com,5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,贴吧 site:tieba.baidu.com,5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,小红书 site:xiaohongshu.com,5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,抖音 site:douyin.com,5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,今日头条 site:toutiao.com,5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,腾讯新闻 site:qq.com,5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,微信 site:mp.weixin.qq.com,5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,商品平台/聚合,5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,图片搜索,5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Wayback,5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Common Crawl,5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,archive.today,5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Arquivo.pt,5323616443629696,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,微博/移动端 site:weibo.com OR site:m.weibo.cn,R9UnAAqxH,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,新浪 site:sina.cn,R9UnAAqxH,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,百度,R9UnAAqxH,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,必应,R9UnAAqxH,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,搜狗,R9UnAAqxH,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,360,R9UnAAqxH,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,知乎 site:zhihu.com,R9UnAAqxH,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,B站 site:bilibili.com,R9UnAAqxH,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,贴吧 site:tieba.baidu.com,R9UnAAqxH,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,小红书 site:xiaohongshu.com,R9UnAAqxH,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,抖音 site:douyin.com,R9UnAAqxH,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,今日头条 site:toutiao.com,R9UnAAqxH,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,腾讯新闻 site:qq.com,R9UnAAqxH,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,微信 site:mp.weixin.qq.com,R9UnAAqxH,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,商品平台/聚合,R9UnAAqxH,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,图片搜索,R9UnAAqxH,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Wayback,R9UnAAqxH,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Common Crawl,R9UnAAqxH,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,archive.today,R9UnAAqxH,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Arquivo.pt,R9UnAAqxH,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,微博/移动端 site:weibo.com OR site:m.weibo.cn,8345249001,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,新浪 site:sina.cn,8345249001,site-directed query (see scripts and web_search_findings.txt),unknown,命中新浪账号页，当前名王澎程,
+2026-08-05T07:39:22Z,百度,8345249001,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,必应,8345249001,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,搜狗,8345249001,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,360,8345249001,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,知乎 site:zhihu.com,8345249001,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,B站 site:bilibili.com,8345249001,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,贴吧 site:tieba.baidu.com,8345249001,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,小红书 site:xiaohongshu.com,8345249001,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,抖音 site:douyin.com,8345249001,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,今日头条 site:toutiao.com,8345249001,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,腾讯新闻 site:qq.com,8345249001,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,微信 site:mp.weixin.qq.com,8345249001,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,商品平台/聚合,8345249001,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,图片搜索,8345249001,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Wayback,8345249001,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Common Crawl,8345249001,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,archive.today,8345249001,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Arquivo.pt,8345249001,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,微博/移动端 site:weibo.com OR site:m.weibo.cn,最近都在推荐这个余音绕梁竹知了，说是1000块钱以内最好玩的玩具，确实挺好玩的。,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,新浪 site:sina.cn,最近都在推荐这个余音绕梁竹知了，说是1000块钱以内最好玩的玩具，确实挺好玩的。,site-directed query (see scripts and web_search_findings.txt),unknown,命中新浪镜像目标页摘要/结果,
+2026-08-05T07:39:22Z,百度,最近都在推荐这个余音绕梁竹知了，说是1000块钱以内最好玩的玩具，确实挺好玩的。,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,必应,最近都在推荐这个余音绕梁竹知了，说是1000块钱以内最好玩的玩具，确实挺好玩的。,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,搜狗,最近都在推荐这个余音绕梁竹知了，说是1000块钱以内最好玩的玩具，确实挺好玩的。,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,360,最近都在推荐这个余音绕梁竹知了，说是1000块钱以内最好玩的玩具，确实挺好玩的。,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,知乎 site:zhihu.com,最近都在推荐这个余音绕梁竹知了，说是1000块钱以内最好玩的玩具，确实挺好玩的。,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,B站 site:bilibili.com,最近都在推荐这个余音绕梁竹知了，说是1000块钱以内最好玩的玩具，确实挺好玩的。,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,贴吧 site:tieba.baidu.com,最近都在推荐这个余音绕梁竹知了，说是1000块钱以内最好玩的玩具，确实挺好玩的。,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,小红书 site:xiaohongshu.com,最近都在推荐这个余音绕梁竹知了，说是1000块钱以内最好玩的玩具，确实挺好玩的。,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,抖音 site:douyin.com,最近都在推荐这个余音绕梁竹知了，说是1000块钱以内最好玩的玩具，确实挺好玩的。,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,今日头条 site:toutiao.com,最近都在推荐这个余音绕梁竹知了，说是1000块钱以内最好玩的玩具，确实挺好玩的。,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,腾讯新闻 site:qq.com,最近都在推荐这个余音绕梁竹知了，说是1000块钱以内最好玩的玩具，确实挺好玩的。,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,微信 site:mp.weixin.qq.com,最近都在推荐这个余音绕梁竹知了，说是1000块钱以内最好玩的玩具，确实挺好玩的。,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,商品平台/聚合,最近都在推荐这个余音绕梁竹知了，说是1000块钱以内最好玩的玩具，确实挺好玩的。,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,图片搜索,最近都在推荐这个余音绕梁竹知了，说是1000块钱以内最好玩的玩具，确实挺好玩的。,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Wayback,最近都在推荐这个余音绕梁竹知了，说是1000块钱以内最好玩的玩具，确实挺好玩的。,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Common Crawl,最近都在推荐这个余音绕梁竹知了，说是1000块钱以内最好玩的玩具，确实挺好玩的。,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,archive.today,最近都在推荐这个余音绕梁竹知了，说是1000块钱以内最好玩的玩具，确实挺好玩的。,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Arquivo.pt,最近都在推荐这个余音绕梁竹知了，说是1000块钱以内最好玩的玩具，确实挺好玩的。,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,微博/移动端 site:weibo.com OR site:m.weibo.cn,最近都在推荐这个余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,新浪 site:sina.cn,最近都在推荐这个余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,命中新浪镜像目标页摘要/结果,
+2026-08-05T07:39:22Z,百度,最近都在推荐这个余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,必应,最近都在推荐这个余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,搜狗,最近都在推荐这个余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,360,最近都在推荐这个余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,知乎 site:zhihu.com,最近都在推荐这个余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,B站 site:bilibili.com,最近都在推荐这个余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,贴吧 site:tieba.baidu.com,最近都在推荐这个余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,小红书 site:xiaohongshu.com,最近都在推荐这个余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,抖音 site:douyin.com,最近都在推荐这个余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,今日头条 site:toutiao.com,最近都在推荐这个余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,腾讯新闻 site:qq.com,最近都在推荐这个余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,微信 site:mp.weixin.qq.com,最近都在推荐这个余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,商品平台/聚合,最近都在推荐这个余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,图片搜索,最近都在推荐这个余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Wayback,最近都在推荐这个余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Common Crawl,最近都在推荐这个余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,archive.today,最近都在推荐这个余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Arquivo.pt,最近都在推荐这个余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,微博/移动端 site:weibo.com OR site:m.weibo.cn,1000块钱以内最好玩的玩具,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,新浪 site:sina.cn,1000块钱以内最好玩的玩具,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,百度,1000块钱以内最好玩的玩具,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,必应,1000块钱以内最好玩的玩具,site-directed query (see scripts and web_search_findings.txt),unknown,命中腾讯新闻/ZAKER等二次报道,
+2026-08-05T07:39:22Z,搜狗,1000块钱以内最好玩的玩具,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,360,1000块钱以内最好玩的玩具,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,知乎 site:zhihu.com,1000块钱以内最好玩的玩具,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,B站 site:bilibili.com,1000块钱以内最好玩的玩具,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,贴吧 site:tieba.baidu.com,1000块钱以内最好玩的玩具,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,小红书 site:xiaohongshu.com,1000块钱以内最好玩的玩具,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,抖音 site:douyin.com,1000块钱以内最好玩的玩具,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,今日头条 site:toutiao.com,1000块钱以内最好玩的玩具,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,腾讯新闻 site:qq.com,1000块钱以内最好玩的玩具,site-directed query (see scripts and web_search_findings.txt),unknown,命中腾讯新闻/ZAKER等二次报道,
+2026-08-05T07:39:22Z,微信 site:mp.weixin.qq.com,1000块钱以内最好玩的玩具,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,商品平台/聚合,1000块钱以内最好玩的玩具,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,图片搜索,1000块钱以内最好玩的玩具,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Wayback,1000块钱以内最好玩的玩具,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Common Crawl,1000块钱以内最好玩的玩具,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,archive.today,1000块钱以内最好玩的玩具,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Arquivo.pt,1000块钱以内最好玩的玩具,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,微博/移动端 site:weibo.com OR site:m.weibo.cn,余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,新浪 site:sina.cn,余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,百度,余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,必应,余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,搜狗,余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,360,余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,知乎 site:zhihu.com,余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,B站 site:bilibili.com,余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,贴吧 site:tieba.baidu.com,余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,小红书 site:xiaohongshu.com,余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,抖音 site:douyin.com,余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,今日头条 site:toutiao.com,余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,腾讯新闻 site:qq.com,余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,微信 site:mp.weixin.qq.com,余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,商品平台/聚合,余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,图片搜索,余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Wayback,余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Common Crawl,余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,archive.today,余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Arquivo.pt,余音绕梁竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,微博/移动端 site:weibo.com OR site:m.weibo.cn,确实挺好玩的,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,新浪 site:sina.cn,确实挺好玩的,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,百度,确实挺好玩的,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,必应,确实挺好玩的,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,搜狗,确实挺好玩的,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,360,确实挺好玩的,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,知乎 site:zhihu.com,确实挺好玩的,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,B站 site:bilibili.com,确实挺好玩的,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,贴吧 site:tieba.baidu.com,确实挺好玩的,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,小红书 site:xiaohongshu.com,确实挺好玩的,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,抖音 site:douyin.com,确实挺好玩的,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,今日头条 site:toutiao.com,确实挺好玩的,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,腾讯新闻 site:qq.com,确实挺好玩的,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,微信 site:mp.weixin.qq.com,确实挺好玩的,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,商品平台/聚合,确实挺好玩的,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,图片搜索,确实挺好玩的,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Wayback,确实挺好玩的,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Common Crawl,确实挺好玩的,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,archive.today,确实挺好玩的,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Arquivo.pt,确实挺好玩的,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,微博/移动端 site:weibo.com OR site:m.weibo.cn,石头日谈 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,新浪 site:sina.cn,石头日谈 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,百度,石头日谈 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,必应,石头日谈 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,搜狗,石头日谈 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,360,石头日谈 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,知乎 site:zhihu.com,石头日谈 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,B站 site:bilibili.com,石头日谈 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,贴吧 site:tieba.baidu.com,石头日谈 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,小红书 site:xiaohongshu.com,石头日谈 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,抖音 site:douyin.com,石头日谈 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,今日头条 site:toutiao.com,石头日谈 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,腾讯新闻 site:qq.com,石头日谈 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,微信 site:mp.weixin.qq.com,石头日谈 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,商品平台/聚合,石头日谈 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,图片搜索,石头日谈 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Wayback,石头日谈 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Common Crawl,石头日谈 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,archive.today,石头日谈 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Arquivo.pt,石头日谈 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,微博/移动端 site:weibo.com OR site:m.weibo.cn,王澎程 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,新浪 site:sina.cn,王澎程 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,百度,王澎程 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,必应,王澎程 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,搜狗,王澎程 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,360,王澎程 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,知乎 site:zhihu.com,王澎程 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,B站 site:bilibili.com,王澎程 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,贴吧 site:tieba.baidu.com,王澎程 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,小红书 site:xiaohongshu.com,王澎程 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,抖音 site:douyin.com,王澎程 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,今日头条 site:toutiao.com,王澎程 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,腾讯新闻 site:qq.com,王澎程 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,微信 site:mp.weixin.qq.com,王澎程 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,商品平台/聚合,王澎程 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,图片搜索,王澎程 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Wayback,王澎程 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Common Crawl,王澎程 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,archive.today,王澎程 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Arquivo.pt,王澎程 竹知了,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,微博/移动端 site:weibo.com OR site:m.weibo.cn,石头日谈 AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,新浪 site:sina.cn,石头日谈 AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,百度,石头日谈 AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,必应,石头日谈 AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,搜狗,石头日谈 AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,360,石头日谈 AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,知乎 site:zhihu.com,石头日谈 AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,B站 site:bilibili.com,石头日谈 AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,贴吧 site:tieba.baidu.com,石头日谈 AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,小红书 site:xiaohongshu.com,石头日谈 AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,抖音 site:douyin.com,石头日谈 AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,今日头条 site:toutiao.com,石头日谈 AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,腾讯新闻 site:qq.com,石头日谈 AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,微信 site:mp.weixin.qq.com,石头日谈 AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,商品平台/聚合,石头日谈 AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,图片搜索,石头日谈 AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Wayback,石头日谈 AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Common Crawl,石头日谈 AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,archive.today,石头日谈 AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
+2026-08-05T07:39:22Z,Arquivo.pt,石头日谈 AX9xdpfY,site-directed query (see scripts and web_search_findings.txt),unknown,,未见关键命中或需登录/动态渲染/搜索服务阻断；详见报告局限性
